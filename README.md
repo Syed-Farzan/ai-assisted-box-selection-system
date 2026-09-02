@@ -1,4 +1,4 @@
-# AI-Assisted Box Selection System
+# Box Selection System
 
 A Django-based system that recommends the most suitable shipping box for an ecommerce order based on product dimensions, weight, box capacity, and cost.
 
